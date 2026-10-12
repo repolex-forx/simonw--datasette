@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/datasette/commit/cf113a59850862125b86ce1a58c117aa21341e07",
       "git:hexsha": "cf113a59850862125b86ce1a58c117aa21341e07",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/simonw/datasette/commit/5928c11ee798a232aa4096706cd47e639d1c9fc2",
